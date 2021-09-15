@@ -27,7 +27,7 @@ I'm João Pedro Botelho, passionate about programming, welcome!</br>
 
 <div>
   <a href="https://github.com/uJoao22">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=uJoao22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uJoao22&layout-compact&layout=compact&theme=chartreuse-dark&"/>
+  <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=uJoao22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uJoao22&layout-compact&layout=compact&theme=chartreuse-dark&"/>
   </a>
 </div>
