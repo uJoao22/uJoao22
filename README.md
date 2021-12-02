@@ -1,7 +1,6 @@
 ### Hi there 😉
 
 I'm João Pedro Botelho, passionate about programming, welcome!</br>
-- 🔭 I'm currently working as a front-end freelancer
 
 <div>
   <h3>Contact me:</h3>
