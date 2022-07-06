@@ -7,6 +7,9 @@ I'm João Pedro Botelho, passionate about programming, welcome!</br>
   <a href="https://www.linkedin.com/in/joaopedrobotelho/" target="_blank">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
+  <a href="https://cursos.alura.com.br/user/joaopedrobotelho" target="_blank">
+    <img align="center" height="30" width="30" src="https://github.com/alura.png" />
+  </a>
 </div>
   
 ##
