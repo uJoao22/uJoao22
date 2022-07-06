@@ -1,9 +1,11 @@
-### Hi there 😉
+### Olá, Bem-Vindo(a) 😉
 
-I'm João Pedro Botelho, passionate about programming, welcome!</br>
+Meu nome é João Pedro Botelho, sou um estudante e profissional do mundo da programação.</br>
+Desenvolvo diariamente com tecnologias como Java para Back-End, Vue.js para Front-End e Banco de Dados PostgreSQL.</br>
+Estou sempre em busca de mais conhecimento e novidades nesse mundo dev.</br>
 
 <div>
-  <h3>Contact me:</h3>
+  <h3>Redes Sociais:</h3>
   <a href="https://www.linkedin.com/in/joaopedrobotelho/" target="_blank">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
@@ -15,7 +17,7 @@ I'm João Pedro Botelho, passionate about programming, welcome!</br>
 ##
   
 <div style="display: inline_block">
-  <h4>Languages:</h4>
+  <h4>Tecnologias:</h4>
   <img align="center" alt="HTML" title="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" title="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="JS" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
