@@ -4,7 +4,7 @@ I'm João Pedro Botelho, passionate about programming, welcome!</br>
 
 <div>
   <h3>Contact me:</h3>
-  <a href="https://www.linkedin.com/in/joão-pedro-botelho-b4b003207/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaopedrobotelho/" target="_blank">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
