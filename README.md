@@ -1,7 +1,9 @@
 ### Olá, Bem-Vindo(a) 😉
 
 Meu nome é João Pedro Botelho, sou um estudante e profissional do mundo da programação.</br>
+
 Desenvolvo diariamente com tecnologias como Java para Back-End, Vue.js para Front-End e Banco de Dados PostgreSQL.</br>
+
 Estou sempre em busca de mais conhecimento e novidades nesse mundo dev.</br>
 
 <div>
