@@ -35,5 +35,6 @@ Estou sempre em busca de mais conhecimento e novidades nesse mundo dev.</br>
   <a href="https://github.com/uJoao22">
   <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=uJoao22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
   <img height="180em" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uJoao22&layout-compact&layout=compact&theme=chartreuse-dark&"/>
+  <img height="180em" width="100%" src="https://github-profile-trophy.vercel.app/?username=uJoao22&column=9&theme=discord&margin-w=10&margin-h=1"/>
   </a>
 </div>
